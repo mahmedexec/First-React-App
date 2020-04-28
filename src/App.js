@@ -10,7 +10,7 @@ function App() {
        ke
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
